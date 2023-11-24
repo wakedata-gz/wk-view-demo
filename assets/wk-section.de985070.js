@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,w as o,l as t,i as d}from"./index-7021cc54.js";const n=s({},[["render",function(s,n){const c=d;return a(),e(c,{class:"wk-section"},{default:o((()=>[t(s.$slots,"default",{},void 0,!0)])),_:3})}],["__scopeId","data-v-df8802ee"]]);export{n as _};
